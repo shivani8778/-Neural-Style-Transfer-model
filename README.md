@@ -52,4 +52,6 @@ Content Creation: Enhancing media in creative industries.
 Conclusion
 This project showcases the intersection of deep learning and artistic expression. By leveraging the powerful feature representations of VGG19, it demonstrates how machines can produce creative outputs that emulate human art. The Google Colab implementation ensures accessibility, allowing users to experiment with their own content and style images with minimal setup.
 
+![Image](https://github.com/user-attachments/assets/09b6789e-7a45-423d-a34e-9e627ca7d376)
 
+<img width="845" height="630" alt="Image" src="https://github.com/user-attachments/assets/eb02a23b-7312-4f6d-87ca-69069d6a575e" />
